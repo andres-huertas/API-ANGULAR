@@ -1,0 +1,11 @@
+D:\CURSOS\API-ANGULAR\API\ApiAngular\src\ApiAngular.Shared\bin\Debug\net8.0\ApiAngular.Shared.deps.json
+D:\CURSOS\API-ANGULAR\API\ApiAngular\src\ApiAngular.Shared\bin\Debug\net8.0\ApiAngular.Shared.dll
+D:\CURSOS\API-ANGULAR\API\ApiAngular\src\ApiAngular.Shared\bin\Debug\net8.0\ApiAngular.Shared.pdb
+D:\CURSOS\API-ANGULAR\API\ApiAngular\src\ApiAngular.Shared\obj\Debug\net8.0\ApiAngular.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSOS\API-ANGULAR\API\ApiAngular\src\ApiAngular.Shared\obj\Debug\net8.0\ApiAngular.Shared.AssemblyInfoInputs.cache
+D:\CURSOS\API-ANGULAR\API\ApiAngular\src\ApiAngular.Shared\obj\Debug\net8.0\ApiAngular.Shared.AssemblyInfo.cs
+D:\CURSOS\API-ANGULAR\API\ApiAngular\src\ApiAngular.Shared\obj\Debug\net8.0\ApiAngular.Shared.csproj.CoreCompileInputs.cache
+D:\CURSOS\API-ANGULAR\API\ApiAngular\src\ApiAngular.Shared\obj\Debug\net8.0\ApiAngular.Shared.dll
+D:\CURSOS\API-ANGULAR\API\ApiAngular\src\ApiAngular.Shared\obj\Debug\net8.0\refint\ApiAngular.Shared.dll
+D:\CURSOS\API-ANGULAR\API\ApiAngular\src\ApiAngular.Shared\obj\Debug\net8.0\ApiAngular.Shared.pdb
+D:\CURSOS\API-ANGULAR\API\ApiAngular\src\ApiAngular.Shared\obj\Debug\net8.0\ref\ApiAngular.Shared.dll

@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ApiAngular.Domain/1.0.0": {
+        "dependencies": {
+          "ApiAngular.Shared": "1.0.0"
+        },
+        "runtime": {
+          "ApiAngular.Domain.dll": {}
+        }
+      },
+      "ApiAngular.Shared/1.0.0": {
+        "runtime": {
+          "ApiAngular.Shared.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ApiAngular.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ApiAngular.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

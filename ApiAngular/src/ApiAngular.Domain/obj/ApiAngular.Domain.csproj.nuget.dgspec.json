@@ -1,0 +1,132 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngulAR\\SRC\\ApiAngular.Domain\\ApiAngular.Domain.csproj": {}
+  },
+  "projects": {
+    "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngulAR\\SRC\\ApiAngular.Domain\\ApiAngular.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngulAR\\SRC\\ApiAngular.Domain\\ApiAngular.Domain.csproj",
+        "projectName": "ApiAngular.Domain",
+        "projectPath": "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngulAR\\SRC\\ApiAngular.Domain\\ApiAngular.Domain.csproj",
+        "packagesPath": "C:\\Users\\ANDRES\\.nuget\\packages\\",
+        "outputPath": "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngulAR\\SRC\\ApiAngular.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ANDRES\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngulAR\\SRC\\ApiAngular.Shared\\ApiAngular.Shared.csproj": {
+                "projectPath": "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngulAR\\SRC\\ApiAngular.Shared\\ApiAngular.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.407/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngulAR\\SRC\\ApiAngular.Shared\\ApiAngular.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngulAR\\SRC\\ApiAngular.Shared\\ApiAngular.Shared.csproj",
+        "projectName": "ApiAngular.Shared",
+        "projectPath": "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngulAR\\SRC\\ApiAngular.Shared\\ApiAngular.Shared.csproj",
+        "packagesPath": "C:\\Users\\ANDRES\\.nuget\\packages\\",
+        "outputPath": "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngulAR\\SRC\\ApiAngular.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ANDRES\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.407/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+D:\CURSOS\API-ANGULAR\API\ApiAngular\src\ApiAngular.Domain\obj\Debug\net8.0\ApiAngular.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSOS\API-ANGULAR\API\ApiAngular\src\ApiAngular.Domain\obj\Debug\net8.0\ApiAngular.Domain.AssemblyInfoInputs.cache
+D:\CURSOS\API-ANGULAR\API\ApiAngular\src\ApiAngular.Domain\obj\Debug\net8.0\ApiAngular.Domain.AssemblyInfo.cs
+D:\CURSOS\API-ANGULAR\API\ApiAngular\src\ApiAngular.Domain\obj\Debug\net8.0\ApiAngular.Domain.csproj.CoreCompileInputs.cache
+D:\CURSOS\API-ANGULAR\API\ApiAngular\src\ApiAngular.Domain\bin\Debug\net8.0\ApiAngular.Domain.deps.json
+D:\CURSOS\API-ANGULAR\API\ApiAngular\src\ApiAngular.Domain\bin\Debug\net8.0\ApiAngular.Domain.dll
+D:\CURSOS\API-ANGULAR\API\ApiAngular\src\ApiAngular.Domain\bin\Debug\net8.0\ApiAngular.Domain.pdb
+D:\CURSOS\API-ANGULAR\API\ApiAngular\src\ApiAngular.Domain\obj\Debug\net8.0\ApiAngular.Domain.dll
+D:\CURSOS\API-ANGULAR\API\ApiAngular\src\ApiAngular.Domain\obj\Debug\net8.0\refint\ApiAngular.Domain.dll
+D:\CURSOS\API-ANGULAR\API\ApiAngular\src\ApiAngular.Domain\obj\Debug\net8.0\ApiAngular.Domain.pdb
+D:\CURSOS\API-ANGULAR\API\ApiAngular\src\ApiAngular.Domain\obj\Debug\net8.0\ref\ApiAngular.Domain.dll
+D:\CURSOS\API-ANGULAR\API\ApiAngular\src\ApiAngular.Domain\bin\Debug\net8.0\ApiAngular.Shared.dll
+D:\CURSOS\API-ANGULAR\API\ApiAngular\src\ApiAngular.Domain\bin\Debug\net8.0\ApiAngular.Shared.pdb
+D:\CURSOS\API-ANGULAR\API\ApiAngular\src\ApiAngular.Domain\obj\Debug\net8.0\ApiAngular.Domain.csproj.AssemblyReference.cache
+D:\CURSOS\API-ANGULAR\API\ApiAngular\src\ApiAngular.Domain\obj\Debug\net8.0\ApiAngul.4109F8C1.Up2Date

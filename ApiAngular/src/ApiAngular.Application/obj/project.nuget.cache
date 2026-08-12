@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "khehPbWQeqk=",
+  "success": true,
+  "projectFilePath": "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngulAR\\SRC\\ApiAngular.Application\\ApiAngular.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ANDRES\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

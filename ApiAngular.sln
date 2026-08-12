@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ApiAngular", "ApiAngular", "{2A542310-5186-4CDF-9F9F-B67AE4C03C9E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{C47C13DD-ECED-4415-B183-582F42B15777}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiAngular.Api", "ApiAngular\src\ApiAngular.Api\ApiAngular.Api.csproj", "{73D0C5AF-2917-4C84-A00B-2975472A5997}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiAngular.Application", "ApiAngular\src\ApiAngular.Application\ApiAngular.Application.csproj", "{3FA41AB0-29D9-4072-ACC3-BCB6576B3E88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiAngular.Domain", "ApiAngular\src\ApiAngular.Domain\ApiAngular.Domain.csproj", "{64BFB536-1A90-49A0-8C0E-C5FE7C5FDEB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiAngular.Shared", "ApiAngular\src\ApiAngular.Shared\ApiAngular.Shared.csproj", "{36408C61-E402-4357-B829-BC2FB95018EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiAngular.Infrastructure", "ApiAngular\src\ApiAngular.Infrastructure\ApiAngular.Infrastructure.csproj", "{E681B488-BD76-44F9-955F-0132DBC8737C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73D0C5AF-2917-4C84-A00B-2975472A5997}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73D0C5AF-2917-4C84-A00B-2975472A5997}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73D0C5AF-2917-4C84-A00B-2975472A5997}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73D0C5AF-2917-4C84-A00B-2975472A5997}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FA41AB0-29D9-4072-ACC3-BCB6576B3E88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FA41AB0-29D9-4072-ACC3-BCB6576B3E88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FA41AB0-29D9-4072-ACC3-BCB6576B3E88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FA41AB0-29D9-4072-ACC3-BCB6576B3E88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64BFB536-1A90-49A0-8C0E-C5FE7C5FDEB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64BFB536-1A90-49A0-8C0E-C5FE7C5FDEB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64BFB536-1A90-49A0-8C0E-C5FE7C5FDEB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64BFB536-1A90-49A0-8C0E-C5FE7C5FDEB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36408C61-E402-4357-B829-BC2FB95018EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36408C61-E402-4357-B829-BC2FB95018EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36408C61-E402-4357-B829-BC2FB95018EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36408C61-E402-4357-B829-BC2FB95018EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E681B488-BD76-44F9-955F-0132DBC8737C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E681B488-BD76-44F9-955F-0132DBC8737C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E681B488-BD76-44F9-955F-0132DBC8737C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E681B488-BD76-44F9-955F-0132DBC8737C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C47C13DD-ECED-4415-B183-582F42B15777} = {2A542310-5186-4CDF-9F9F-B67AE4C03C9E}
+		{73D0C5AF-2917-4C84-A00B-2975472A5997} = {C47C13DD-ECED-4415-B183-582F42B15777}
+		{3FA41AB0-29D9-4072-ACC3-BCB6576B3E88} = {C47C13DD-ECED-4415-B183-582F42B15777}
+		{64BFB536-1A90-49A0-8C0E-C5FE7C5FDEB1} = {C47C13DD-ECED-4415-B183-582F42B15777}
+		{36408C61-E402-4357-B829-BC2FB95018EF} = {C47C13DD-ECED-4415-B183-582F42B15777}
+		{E681B488-BD76-44F9-955F-0132DBC8737C} = {C47C13DD-ECED-4415-B183-582F42B15777}
+	EndGlobalSection
+EndGlobal
