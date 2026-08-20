@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngulAR\\SRC\\ApiAngular.Api\\ApiAngular.Api.csproj": {}
+    "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngular\\src\\ApiAngular.Api\\ApiAngular.Api.csproj": {}
   },
   "projects": {
-    "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngulAR\\SRC\\ApiAngular.Api\\ApiAngular.Api.csproj": {
+    "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngular\\src\\ApiAngular.Api\\ApiAngular.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngulAR\\SRC\\ApiAngular.Api\\ApiAngular.Api.csproj",
+        "projectUniqueName": "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngular\\src\\ApiAngular.Api\\ApiAngular.Api.csproj",
         "projectName": "ApiAngular.Api",
-        "projectPath": "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngulAR\\SRC\\ApiAngular.Api\\ApiAngular.Api.csproj",
+        "projectPath": "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngular\\src\\ApiAngular.Api\\ApiAngular.Api.csproj",
         "packagesPath": "C:\\Users\\ANDRES\\.nuget\\packages\\",
-        "outputPath": "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngulAR\\SRC\\ApiAngular.Api\\obj\\",
+        "outputPath": "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngular\\src\\ApiAngular.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ANDRES\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,14 +28,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngulAR\\SRC\\ApiAngular.Application\\ApiAngular.Application.csproj": {
-                "projectPath": "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngulAR\\SRC\\ApiAngular.Application\\ApiAngular.Application.csproj"
+              "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngular\\src\\ApiAngular.Application\\ApiAngular.Application.csproj": {
+                "projectPath": "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngular\\src\\ApiAngular.Application\\ApiAngular.Application.csproj"
               },
-              "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngulAR\\SRC\\ApiAngular.Infrastructure\\ApiAngular.Infrastructure.csproj": {
-                "projectPath": "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngulAR\\SRC\\ApiAngular.Infrastructure\\ApiAngular.Infrastructure.csproj"
+              "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngular\\src\\ApiAngular.Infrastructure\\ApiAngular.Infrastructure.csproj": {
+                "projectPath": "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngular\\src\\ApiAngular.Infrastructure\\ApiAngular.Infrastructure.csproj"
               },
-              "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngulAR\\SRC\\ApiAngular.Shared\\ApiAngular.Shared.csproj": {
-                "projectPath": "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngulAR\\SRC\\ApiAngular.Shared\\ApiAngular.Shared.csproj"
+              "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngular\\src\\ApiAngular.Shared\\ApiAngular.Shared.csproj": {
+                "projectPath": "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngular\\src\\ApiAngular.Shared\\ApiAngular.Shared.csproj"
               }
             }
           }
@@ -97,14 +97,14 @@
         }
       }
     },
-    "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngulAR\\SRC\\ApiAngular.Application\\ApiAngular.Application.csproj": {
+    "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngular\\src\\ApiAngular.Application\\ApiAngular.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngulAR\\SRC\\ApiAngular.Application\\ApiAngular.Application.csproj",
+        "projectUniqueName": "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngular\\src\\ApiAngular.Application\\ApiAngular.Application.csproj",
         "projectName": "ApiAngular.Application",
-        "projectPath": "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngulAR\\SRC\\ApiAngular.Application\\ApiAngular.Application.csproj",
+        "projectPath": "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngular\\src\\ApiAngular.Application\\ApiAngular.Application.csproj",
         "packagesPath": "C:\\Users\\ANDRES\\.nuget\\packages\\",
-        "outputPath": "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngulAR\\SRC\\ApiAngular.Application\\obj\\",
+        "outputPath": "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngular\\src\\ApiAngular.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ANDRES\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -121,11 +121,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngulAR\\SRC\\ApiAngular.Domain\\ApiAngular.Domain.csproj": {
-                "projectPath": "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngulAR\\SRC\\ApiAngular.Domain\\ApiAngular.Domain.csproj"
+              "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngular\\src\\ApiAngular.Domain\\ApiAngular.Domain.csproj": {
+                "projectPath": "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngular\\src\\ApiAngular.Domain\\ApiAngular.Domain.csproj"
               },
-              "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngulAR\\SRC\\ApiAngular.Shared\\ApiAngular.Shared.csproj": {
-                "projectPath": "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngulAR\\SRC\\ApiAngular.Shared\\ApiAngular.Shared.csproj"
+              "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngular\\src\\ApiAngular.Shared\\ApiAngular.Shared.csproj": {
+                "projectPath": "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngular\\src\\ApiAngular.Shared\\ApiAngular.Shared.csproj"
               }
             }
           }
@@ -170,14 +170,14 @@
         }
       }
     },
-    "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngulAR\\SRC\\ApiAngular.Domain\\ApiAngular.Domain.csproj": {
+    "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngular\\src\\ApiAngular.Domain\\ApiAngular.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngulAR\\SRC\\ApiAngular.Domain\\ApiAngular.Domain.csproj",
+        "projectUniqueName": "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngular\\src\\ApiAngular.Domain\\ApiAngular.Domain.csproj",
         "projectName": "ApiAngular.Domain",
-        "projectPath": "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngulAR\\SRC\\ApiAngular.Domain\\ApiAngular.Domain.csproj",
+        "projectPath": "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngular\\src\\ApiAngular.Domain\\ApiAngular.Domain.csproj",
         "packagesPath": "C:\\Users\\ANDRES\\.nuget\\packages\\",
-        "outputPath": "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngulAR\\SRC\\ApiAngular.Domain\\obj\\",
+        "outputPath": "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngular\\src\\ApiAngular.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ANDRES\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -194,8 +194,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngulAR\\SRC\\ApiAngular.Shared\\ApiAngular.Shared.csproj": {
-                "projectPath": "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngulAR\\SRC\\ApiAngular.Shared\\ApiAngular.Shared.csproj"
+              "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngular\\src\\ApiAngular.Shared\\ApiAngular.Shared.csproj": {
+                "projectPath": "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngular\\src\\ApiAngular.Shared\\ApiAngular.Shared.csproj"
               }
             }
           }
@@ -234,14 +234,14 @@
         }
       }
     },
-    "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngulAR\\SRC\\ApiAngular.Infrastructure\\ApiAngular.Infrastructure.csproj": {
+    "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngular\\src\\ApiAngular.Infrastructure\\ApiAngular.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngulAR\\SRC\\ApiAngular.Infrastructure\\ApiAngular.Infrastructure.csproj",
+        "projectUniqueName": "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngular\\src\\ApiAngular.Infrastructure\\ApiAngular.Infrastructure.csproj",
         "projectName": "ApiAngular.Infrastructure",
-        "projectPath": "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngulAR\\SRC\\ApiAngular.Infrastructure\\ApiAngular.Infrastructure.csproj",
+        "projectPath": "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngular\\src\\ApiAngular.Infrastructure\\ApiAngular.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\ANDRES\\.nuget\\packages\\",
-        "outputPath": "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngulAR\\SRC\\ApiAngular.Infrastructure\\obj\\",
+        "outputPath": "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngular\\src\\ApiAngular.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ANDRES\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -258,11 +258,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngulAR\\SRC\\ApiAngular.Domain\\ApiAngular.Domain.csproj": {
-                "projectPath": "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngulAR\\SRC\\ApiAngular.Domain\\ApiAngular.Domain.csproj"
+              "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngular\\src\\ApiAngular.Domain\\ApiAngular.Domain.csproj": {
+                "projectPath": "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngular\\src\\ApiAngular.Domain\\ApiAngular.Domain.csproj"
               },
-              "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngulAR\\SRC\\ApiAngular.Shared\\ApiAngular.Shared.csproj": {
-                "projectPath": "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngulAR\\SRC\\ApiAngular.Shared\\ApiAngular.Shared.csproj"
+              "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngular\\src\\ApiAngular.Shared\\ApiAngular.Shared.csproj": {
+                "projectPath": "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngular\\src\\ApiAngular.Shared\\ApiAngular.Shared.csproj"
               }
             }
           }
@@ -319,14 +319,14 @@
         }
       }
     },
-    "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngulAR\\SRC\\ApiAngular.Shared\\ApiAngular.Shared.csproj": {
+    "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngular\\src\\ApiAngular.Shared\\ApiAngular.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngulAR\\SRC\\ApiAngular.Shared\\ApiAngular.Shared.csproj",
+        "projectUniqueName": "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngular\\src\\ApiAngular.Shared\\ApiAngular.Shared.csproj",
         "projectName": "ApiAngular.Shared",
-        "projectPath": "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngulAR\\SRC\\ApiAngular.Shared\\ApiAngular.Shared.csproj",
+        "projectPath": "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngular\\src\\ApiAngular.Shared\\ApiAngular.Shared.csproj",
         "packagesPath": "C:\\Users\\ANDRES\\.nuget\\packages\\",
-        "outputPath": "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngulAR\\SRC\\ApiAngular.Shared\\obj\\",
+        "outputPath": "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngular\\src\\ApiAngular.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ANDRES\\AppData\\Roaming\\NuGet\\NuGet.Config",

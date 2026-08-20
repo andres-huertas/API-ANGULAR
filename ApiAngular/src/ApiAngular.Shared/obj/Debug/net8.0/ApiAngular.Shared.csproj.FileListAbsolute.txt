@@ -9,3 +9,4 @@ D:\CURSOS\API-ANGULAR\API\ApiAngular\src\ApiAngular.Shared\obj\Debug\net8.0\ApiA
 D:\CURSOS\API-ANGULAR\API\ApiAngular\src\ApiAngular.Shared\obj\Debug\net8.0\refint\ApiAngular.Shared.dll
 D:\CURSOS\API-ANGULAR\API\ApiAngular\src\ApiAngular.Shared\obj\Debug\net8.0\ApiAngular.Shared.pdb
 D:\CURSOS\API-ANGULAR\API\ApiAngular\src\ApiAngular.Shared\obj\Debug\net8.0\ref\ApiAngular.Shared.dll
+D:\CURSOS\API-ANGULAR\API\ApiAngular\src\ApiAngular.Shared\obj\Debug\net8.0\ApiAngular.Shared.sourcelink.json

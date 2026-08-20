@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngulAR\\SRC\\ApiAngular.Shared\\ApiAngular.Shared.csproj": {}
+    "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngular\\src\\ApiAngular.Shared\\ApiAngular.Shared.csproj": {}
   },
   "projects": {
-    "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngulAR\\SRC\\ApiAngular.Shared\\ApiAngular.Shared.csproj": {
+    "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngular\\src\\ApiAngular.Shared\\ApiAngular.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngulAR\\SRC\\ApiAngular.Shared\\ApiAngular.Shared.csproj",
+        "projectUniqueName": "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngular\\src\\ApiAngular.Shared\\ApiAngular.Shared.csproj",
         "projectName": "ApiAngular.Shared",
-        "projectPath": "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngulAR\\SRC\\ApiAngular.Shared\\ApiAngular.Shared.csproj",
+        "projectPath": "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngular\\src\\ApiAngular.Shared\\ApiAngular.Shared.csproj",
         "packagesPath": "C:\\Users\\ANDRES\\.nuget\\packages\\",
-        "outputPath": "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngulAR\\SRC\\ApiAngular.Shared\\obj\\",
+        "outputPath": "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngular\\src\\ApiAngular.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ANDRES\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -17,3 +17,4 @@ D:\CURSOS\API-ANGULAR\API\ApiAngular\src\ApiAngular.Infrastructure\bin\Debug\net
 D:\CURSOS\API-ANGULAR\API\ApiAngular\src\ApiAngular.Infrastructure\obj\Debug\net8.0\ApiAngular.Infrastructure.csproj.AssemblyReference.cache
 D:\CURSOS\API-ANGULAR\API\ApiAngular\src\ApiAngular.Infrastructure\obj\Debug\net8.0\ApiAngul.24EABD5B.Up2Date
 D:\CURSOS\API-ANGULAR\API\ApiAngular\src\ApiAngular.Infrastructure\obj\Debug\net8.0\ApiAngular.Infrastructure.genruntimeconfig.cache
+D:\CURSOS\API-ANGULAR\API\ApiAngular\src\ApiAngular.Infrastructure\obj\Debug\net8.0\ApiAngular.Infrastructure.sourcelink.json

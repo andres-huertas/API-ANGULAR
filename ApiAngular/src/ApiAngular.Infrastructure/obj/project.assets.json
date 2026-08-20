@@ -4146,11 +4146,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngulAR\\SRC\\ApiAngular.Infrastructure\\ApiAngular.Infrastructure.csproj",
+      "projectUniqueName": "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngular\\src\\ApiAngular.Infrastructure\\ApiAngular.Infrastructure.csproj",
       "projectName": "ApiAngular.Infrastructure",
-      "projectPath": "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngulAR\\SRC\\ApiAngular.Infrastructure\\ApiAngular.Infrastructure.csproj",
+      "projectPath": "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngular\\src\\ApiAngular.Infrastructure\\ApiAngular.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\ANDRES\\.nuget\\packages\\",
-      "outputPath": "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngulAR\\SRC\\ApiAngular.Infrastructure\\obj\\",
+      "outputPath": "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngular\\src\\ApiAngular.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ANDRES\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4167,11 +4167,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngulAR\\SRC\\ApiAngular.Domain\\ApiAngular.Domain.csproj": {
-              "projectPath": "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngulAR\\SRC\\ApiAngular.Domain\\ApiAngular.Domain.csproj"
+            "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngular\\src\\ApiAngular.Domain\\ApiAngular.Domain.csproj": {
+              "projectPath": "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngular\\src\\ApiAngular.Domain\\ApiAngular.Domain.csproj"
             },
-            "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngulAR\\SRC\\ApiAngular.Shared\\ApiAngular.Shared.csproj": {
-              "projectPath": "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngulAR\\SRC\\ApiAngular.Shared\\ApiAngular.Shared.csproj"
+            "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngular\\src\\ApiAngular.Shared\\ApiAngular.Shared.csproj": {
+              "projectPath": "D:\\CURSOS\\API-ANGULAR\\API\\ApiAngular\\src\\ApiAngular.Shared\\ApiAngular.Shared.csproj"
             }
           }
         }

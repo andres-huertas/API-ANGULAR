@@ -13,3 +13,4 @@ D:\CURSOS\API-ANGULAR\API\ApiAngular\src\ApiAngular.Domain\bin\Debug\net8.0\ApiA
 D:\CURSOS\API-ANGULAR\API\ApiAngular\src\ApiAngular.Domain\bin\Debug\net8.0\ApiAngular.Shared.pdb
 D:\CURSOS\API-ANGULAR\API\ApiAngular\src\ApiAngular.Domain\obj\Debug\net8.0\ApiAngular.Domain.csproj.AssemblyReference.cache
 D:\CURSOS\API-ANGULAR\API\ApiAngular\src\ApiAngular.Domain\obj\Debug\net8.0\ApiAngul.4109F8C1.Up2Date
+D:\CURSOS\API-ANGULAR\API\ApiAngular\src\ApiAngular.Domain\obj\Debug\net8.0\ApiAngular.Domain.sourcelink.json

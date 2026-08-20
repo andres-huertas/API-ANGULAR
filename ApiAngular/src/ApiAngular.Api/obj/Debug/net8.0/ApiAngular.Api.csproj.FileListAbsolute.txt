@@ -144,3 +144,4 @@ D:\CURSOS\API-ANGULAR\API\ApiAngular\src\ApiAngular.Api\bin\Debug\net8.0\tr\Micr
 D:\CURSOS\API-ANGULAR\API\ApiAngular\src\ApiAngular.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\CURSOS\API-ANGULAR\API\ApiAngular\src\ApiAngular.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\CURSOS\API-ANGULAR\API\ApiAngular\src\ApiAngular.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\CURSOS\API-ANGULAR\API\ApiAngular\src\ApiAngular.Api\obj\Debug\net8.0\ApiAngular.Api.sourcelink.json
