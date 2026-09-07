@@ -46,9 +46,7 @@ public class CursoController : ControllerBase
     }
 
     [HttpPut("{id:int}")]
-    public async Task<IActionResult> Actualizar(
-        int id,
-        ActualizarCursoRequest request)
+    public async Task<IActionResult> Actualizar(int id, ActualizarCursoRequest request)
     {
         await _cursoService.ActualizarAsync(id, request);
 
