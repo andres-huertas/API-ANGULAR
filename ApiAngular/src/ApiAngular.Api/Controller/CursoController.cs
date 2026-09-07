@@ -39,10 +39,7 @@ public class CursoController : ControllerBase
     {
         var id = await _cursoService.CrearAsync(request);
 
-        return CreatedAtAction(
-            nameof(ObtenerPorId),
-            new { id },
-            new { id });
+        return CreatedAtAction(nameof(ObtenerPorId), new { id }, new { id });
     }
 
     [HttpPut("{id:int}")]
