@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiAngular.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+468962bfbfd2fc7b2a1ae5809f65ad28cb88ab6d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65e364619c7e69f2ced293cbaeb330ebc970edb8")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiAngular.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiAngular.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

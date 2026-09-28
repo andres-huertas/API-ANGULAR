@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CURSOS\\API-ANGULAR\\API-ANGULAR\\ApiAngular\\src\\ApiAngular.APi\\ApiAngular.Api.csproj": {}
+    "D:\\CURSOS\\API-ANGULAR\\API-ANGULAR\\ApiAngular\\src\\ApiAngular.Api\\ApiAngular.Api.csproj": {}
   },
   "projects": {
-    "D:\\CURSOS\\API-ANGULAR\\API-ANGULAR\\ApiAngular\\src\\ApiAngular.APi\\ApiAngular.Api.csproj": {
+    "D:\\CURSOS\\API-ANGULAR\\API-ANGULAR\\ApiAngular\\src\\ApiAngular.Api\\ApiAngular.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CURSOS\\API-ANGULAR\\API-ANGULAR\\ApiAngular\\src\\ApiAngular.APi\\ApiAngular.Api.csproj",
+        "projectUniqueName": "D:\\CURSOS\\API-ANGULAR\\API-ANGULAR\\ApiAngular\\src\\ApiAngular.Api\\ApiAngular.Api.csproj",
         "projectName": "ApiAngular.Api",
-        "projectPath": "D:\\CURSOS\\API-ANGULAR\\API-ANGULAR\\ApiAngular\\src\\ApiAngular.APi\\ApiAngular.Api.csproj",
+        "projectPath": "D:\\CURSOS\\API-ANGULAR\\API-ANGULAR\\ApiAngular\\src\\ApiAngular.Api\\ApiAngular.Api.csproj",
         "packagesPath": "C:\\Users\\ANDRES\\.nuget\\packages\\",
-        "outputPath": "D:\\CURSOS\\API-ANGULAR\\API-ANGULAR\\ApiAngular\\src\\ApiAngular.APi\\obj\\",
+        "outputPath": "D:\\CURSOS\\API-ANGULAR\\API-ANGULAR\\ApiAngular\\src\\ApiAngular.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
