@@ -21,26 +21,22 @@ public class CursoService : ICursoService
     }
 
     public async Task<PagedResponse<CursoDto>> ObtenerTodosAsync(PagedRequest request)
-    {
-        var total = await _cursoRepository.ContarAsync();
-
-        var cursos = await _cursoRepository.ObtenerTodosAsync(
-            request.PageNumber,
-            request.PageSize);
-
-        var items = cursos
-            .Select(x => x.ToDto())
-            .ToList();
-
-        var totalPages = (int)Math.Ceiling(total / (double)request.PageSize);
-
-        return new PagedResponse<CursoDto>(
-            items,
-            request.PageNumber,
-            request.PageSize,
-            total,
-            totalPages);
-    }
+{
+    var search = request.Search?.Trim();
+    var total = await _cursoRepository.ContarAsync(search);
+    var cursos = await _cursoRepository.ObtenerTodosAsync(
+        request.PageNumber,
+        request.PageSize,
+        search);
+    var items = cursos.Select(x => x.ToDto()).ToList();
+    var totalPages = (int)Math.Ceiling(total / (double)request.PageSize);
+    return new PagedResponse<CursoDto>(
+        items,
+        request.PageNumber,
+        request.PageSize,
+        total,
+        totalPages);
+}
 
     public async Task<CursoResponse?> ObtenerPorIdAsync(int id)
     {

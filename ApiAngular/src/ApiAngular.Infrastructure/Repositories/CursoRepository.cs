@@ -1,3 +1,4 @@
+
 using ApiAngular.Domain.Entities;
 using ApiAngular.Domain.Interfaces;
 using Microsoft.EntityFrameworkCore;
@@ -13,29 +14,43 @@ public class CursoRepository : ICursoRepository
         _context = context;
     }
 
-    public async Task<IReadOnlyList<Curso>> ObtenerTodosAsync(
-       int pageNumber,
-       int pageSize)
+    public async Task<IReadOnlyList<Curso>> ObtenerTodosAsync(int pageNumber, int pageSize, string? search = null)
     {
-        return await _context.Cursos
-            .AsNoTracking()
+        var query = _context.Cursos.AsNoTracking();
+
+        if (!string.IsNullOrWhiteSpace(search))
+        {
+            search = search.Trim();
+            query = query.Where(x => x.Descripcion.Contains(search));
+        }
+
+        return await query
             .OrderBy(x => x.Descripcion)
+            .ThenBy(x => x.Id)
             .Skip((pageNumber - 1) * pageSize)
             .Take(pageSize)
             .ToListAsync();
     }
 
-    public async Task<int> ContarAsync()
+    public async Task<int> ContarAsync(string? search = null)
     {
-        return await _context.Cursos.CountAsync();
+        var query = _context.Cursos.AsNoTracking();
+
+        if (!string.IsNullOrWhiteSpace(search))
+        {
+            search = search.Trim();
+            query = query.Where(x => x.Descripcion.Contains(search));
+        }
+
+        return await query.CountAsync();
     }
 
     public async Task<Curso?> ObtenerPorIdAsync(int id)
     {
         return await _context.Cursos
-                         .Include(x => x.Precios)
-                         .AsSplitQuery()
-                         .FirstOrDefaultAsync(x => x.Id == id);
+            .Include(x => x.Precios)
+            .AsSplitQuery()
+            .FirstOrDefaultAsync(x => x.Id == id);
     }
 
     public async Task AgregarAsync(Curso curso)

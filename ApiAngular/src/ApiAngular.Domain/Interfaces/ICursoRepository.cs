@@ -4,10 +4,8 @@ namespace ApiAngular.Domain.Interfaces;
 
 public interface ICursoRepository
 {
-    Task<IReadOnlyList<Curso>> ObtenerTodosAsync(int pageNumber, int pageSize);
-
-    Task<int> ContarAsync();
-
+    Task<IReadOnlyList<Curso>> ObtenerTodosAsync(int pageNumber, int pageSize, string? search = null);
+    Task<int> ContarAsync(string? search = null);
     Task<Curso?> ObtenerPorIdAsync(int id);
 
     Task AgregarAsync(Curso curso);
